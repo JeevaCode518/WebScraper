@@ -1,6 +1,6 @@
 # Web Scraper for Flipkart and Croma
 
-This project is a web scraper that extracts data from two e-commerce websites, Flipkart and Croma. The scraper takes two URLs as input, scrapes the product information, and compares the data. The project utilizes Selenium WebDriver with ChromeDriver, multithreading for efficient data extraction, and the Builder pattern for flexible object creation.
+This project is a web scraper that extracts data from two e-commerce websites, Flipkart and Croma. The scraper takes two URLs as input, scrapes the product information. The project utilizes Selenium WebDriver with ChromeDriver, multithreading for efficient data extraction, and the Builder pattern for flexible object creation.
 
 ## Features
 
