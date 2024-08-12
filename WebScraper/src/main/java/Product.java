@@ -15,13 +15,6 @@ public class Product {
     private String processor;
 
 
-    //    public Product(String productName, double price, int ram, int storageCapacity, String color) {
-//        this.productName = productName;
-//        this.price = price;
-//        this.ram = ram;
-//        this.storageCapacity = storageCapacity;
-//        this.color = color;
-//    }
     public Product(){}
 
     public String getProductName() {
