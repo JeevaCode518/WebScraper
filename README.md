@@ -13,7 +13,7 @@ This project is a web scraper that extracts data from two e-commerce websites, F
 
 Before you can run the project, ensure you have the following installed:
 
-- **Java**
+- **Java 17**
 - **Maven** for dependency management
 - **Selenium WebDriver** (automatically managed by WebDriver Manager)
 - **ChromeDriver** (automatically managed by WebDriver Manager)
